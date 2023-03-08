@@ -21,5 +21,6 @@ public class Lab {
      */
     public double mathPow(double a, double b){
         return Math.pow(a, b);
+        //
     }
 }
